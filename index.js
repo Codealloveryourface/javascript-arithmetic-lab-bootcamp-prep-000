@@ -41,7 +41,3 @@ function preserveDecimal(n) {
   parseFloat('n')
   return n
 }
-
-function makeInt(n) {
-  n = ('n', 10)
-}
