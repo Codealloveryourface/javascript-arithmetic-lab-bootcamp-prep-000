@@ -21,3 +21,8 @@ function divide(a, b) {
   b = b
   return a/b
 }
+
+function inc(n) {
+  var n = n++
+  return n
+}
