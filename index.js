@@ -15,3 +15,9 @@ function multiply(a, b) {
   b = b
 return a*b
 }
+
+function divide(a, b) {
+  a = a
+  b = b
+  return a/b
+}
