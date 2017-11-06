@@ -26,3 +26,8 @@ function inc(n) {
   var n = n++
   return n+1
 }
+
+function dec(n) {
+  var n = n--
+  return n-1
+}
